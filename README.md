@@ -20,7 +20,7 @@
 
 Hi! I'm a CompSci student at **TH Nürnberg** with 3 years in **Optics R&D at Nokia** under my belt — though that barely scratches the surface. I'm grateful to live in a time where the gap between an idea and shipping it has all but disappeared. I try to stay creative, stay busy, and give everything my best.
 
-You'll catch me thinking about *the next big thing*, building AI-Native apps, growing **shakebot.ae**, chasing a single-arm pull-up (and acing school) — but you'll never catch me bored. :)
+You'll catch me thinking about *the next big thing*, building apps with AI, growing **shakebot.ae**, chasing a single-arm pull-up (and acing school) — but you'll never catch me bored. :)
 
 If you've got an idea you want to collaborate on, **I want to hear it.**
 
