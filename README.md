@@ -34,51 +34,35 @@ languages:   Python · Java · (learning Go)
 
 ## Currently Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### shakebot.ae
-**You already outsource your nutrition — we make it more convenient.** A network of smart vending machines starting at the gym, with a line of protein and supplement drinks.
-
-`Founder · Brand · Hardware + Software`
-
-</td>
-<td width="50%" valign="top">
-
 ### ColonySearch
 **A swarm-intelligent decentralized search engine.** Exploring whether stigmergic routing — the same trick ant colonies use — can rival centralized search in the wild.
 
 `Decentralized systems · Swarm intelligence · Research`
 
-</td>
-</tr>
-</table>
-
 ## Selected Work
 
-### CV Agent Pipeline
-Multi-agent system that tailors a CV to any job posting URL: scrapes the listing, generates a custom CV, renders to PDF, and scores both ATS compatibility and job fit. Supports Ollama (local), OpenAI, Anthropic, Groq, and Mistral.
+### ColonySearch
+**A decentralized search engine inspired by ant colony optimization.** No central server, no single index — a mesh of nodes route queries through pheromone trails, the same way ant colonies discover food, letting the network self-organize toward the best results.
 
-`Python` `LangChain` `Multi-Agent` `RAG` `ChromaDB` · [→ repo](https://github.com/RaneemK-commits/CV-Agent-Pipeline)
-
----
-
-### SugarIQ — AI Diabetes Management Platform
-> 🥇 1st place · Healthcare Hackathon Bavaria
-
-Clinical decision-support built on RAG with patient-record retrieval. Integrated AWS Transcribe for real-time medical conversations and a LangChain chatbot grounded in patient context.
-
-`Python` `AWS` `LangChain` `React` `Node.js`
+`Python` `Flask` `SQLite FTS5` `Bionic Computation` · [→ repo](https://github.com/Sommer-Lukas/ColonySearch)
 
 ---
 
-### TumorBoard Assistant — Oncology AI
-> 🥈 2nd place · Agaplesion Hackathon
+### Fenners-LBEnergy — Intelligent Heating Control
+> 🥈 2nd place · TUM Science Hackathon
 
-Autonomous agent workflow that summarizes cancer patient data and proposes treatment options grounded in a vector DB of German oncology guidelines.
+A physics-informed thermal model that tells heat pumps the exact moment to start preheating — one grey-box RC structure, calibrated per building from its own telemetry, from canvas tents to concrete lecture halls.
 
-`Python` `OpenAI` `LangChain` `React`
+`Python` `Grey-box modeling` `Time-series` · [→ repo](https://github.com/RaneemK-commits/Fenners-LBEnergy)
+
+---
+
+### OncoBoard.ai — Multi-Agent Tumor Board Assistant
+> 🥈 2nd place · Agaplesion Agathon Hackathon
+
+A 14-agent pipeline that prepares a cancer case for tumor board in under 8 minutes instead of 8 hours — pulling records, checking guidelines, and summarizing findings, with clinicians making every decision.
+
+`Python` `FastAPI` `Google Gemini` `Vue.js` · [→ repo](https://github.com/RaneemK-commits/OncoBoard.ai)
 
 ## Tech Stack
 
