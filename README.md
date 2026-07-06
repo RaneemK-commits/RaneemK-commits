@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Raneem%20Kolakkaden&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Native%20apps%20%C2%B7%20agents%20%C2%B7%20LLMs%20%C2%B7%20swarm%20intelligence&descAlignY=58&descSize=15" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Raneem%20Kolakkaden&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Building%20with%20AI%20%C2%B7%20agents%20%C2%B7%20LLMs%20%C2%B7%20swarm%20intelligence&descAlignY=58&descSize=15" alt="header" />
 
 <a href="https://www.linkedin.com/in/raneem-k-454220231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://shakebot.ae"><img src="https://img.shields.io/badge/shakebot.ae-9ece6a?style=for-the-badge&logo=protondrive&logoColor=1a1b27" alt="shakebot.ae" /></a>
